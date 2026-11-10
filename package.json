@@ -1,0 +1,10 @@
+{
+  "name": "rozenite-ui-lucide-react-react-19",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@rozenite/ui": "latest",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
